@@ -2,8 +2,6 @@
 
 兼容ie的placeholder小插件
 
-***
-
 ## 使用
 
 0. 需要引进一个jq库（这个插件依赖于jquery）
@@ -33,7 +31,6 @@
 	```html
 	<input class="cla1" type="text" />
 	```
-***
 
 ## 作用
 

@@ -27,7 +27,7 @@
     }
 
     //添加支持
-    function support(this
+    function support(){
         var inputTag = document.getElementsByTagName("input");
         for (var i = 0; i < inputTag.length; i++) {
             inputPlaceholder(inputTag[i]);

@@ -15,7 +15,6 @@
 
 	```js
 	<script>
-	//第二种方式
 	Placeholder(); //这样就可以了 做了自适应
 	</script>
 	```

@@ -22,16 +22,6 @@
 
 0. 使用方式如下
 
-> jquery版本
-
-```js
-<script>
-Placeholder(); //这样就可以了 做了自适应 这个没写样式和class的配置 (ノ=Д=)ノ┻━┻
-</script>
-```
-
-> 原生版本
-
 ```js
 <script>
 Placeholder(); //这样就可以了 做了自适应
